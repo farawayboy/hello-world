@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 QA
 =======
 stg change
 added
 >>>>>>> Update blablabla.txt
+=======
+STG
+>>>>>>> stg
