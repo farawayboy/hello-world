@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 2015 05 29
+=======
+stg change
+>>>>>>> origin/stg
 added
