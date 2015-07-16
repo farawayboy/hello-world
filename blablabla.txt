@@ -7,4 +7,5 @@ added
 >>>>>>> Update blablabla.txt
 =======
 STG
->>>>>>> stg
+>>>>>>> st0717
+0717 add
